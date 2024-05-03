@@ -1,0 +1,36 @@
+#main-container {
+    margin: auto;
+    width: 400px;
+    
+}
+
+
+
+body {
+    background-color: black;
+}
+
+.top-page {
+    padding-top: 15px;
+    background-color: white;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mid-page{
+    background-color: white;
+    padding-top: 15px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    width: 400px;
+}
+
+div {
+    padding: 5px;
+    
+}
